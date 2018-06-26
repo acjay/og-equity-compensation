@@ -351,7 +351,7 @@ parallel the section that follows.
     [SharesPost](http://sharespost.com/), [Equidate](https://www.equidateinc.com/), and
     [EquityZen](https://equityzen.com/) have sought to establish a market around secondary sales,
     particularly for well-known pre-IPO companies.
-    \- 🚧 Briefly share what these companies see as valuable in offering opportunities for
+    - 🚧 Briefly share what these companies see as valuable in offering opportunities for
     private sale.
     - A few other secondary firms have emerged that have interest in certain purchases,
       especially for larger sales from founders, early employees, or executives (parties
